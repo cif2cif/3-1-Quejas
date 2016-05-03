@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">3-1-Quejas</string>
+
+    <string-array name="tipos">
+        <item>Queja</item>
+        <item>Sugerencia</item>
+        <item>Felicitacion</item>
+    </string-array>
+    <string-array name="receptores">
+        <item>cafetería</item>
+        <item>jefatura estudios</item>
+        <item>biblioteca</item>
+    </string-array>
+</resources>
+
